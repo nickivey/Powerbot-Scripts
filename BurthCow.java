@@ -208,8 +208,8 @@ public class BurthCow extends ActiveScript implements PaintListener{
 
 	        private final Color color1 = new Color(255, 0, 0);
 
-	        private final Font font1 = new Font("BLACK CAPS", 0, 26);
-	        private final Font font2 = new Font("BLACK CAPS", 0, 19);
+	        private final Font font1 = new Font("Arial", 0, 26);
+	        private final Font font2 = new Font("Arial", 0, 19);
 
 	        public void onRepaint(Graphics g1) {
 	            Graphics2D g = (Graphics2D)g1;
